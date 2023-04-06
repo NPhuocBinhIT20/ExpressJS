@@ -1,4 +1,4 @@
-import * as express from "express";
+import express from "express";
 // const express = require("express");
 const app = express();
 const post = 8080;
